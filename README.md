@@ -1,4 +1,4 @@
-# OLA-Dashboard
+
 # OLA-Dashboard
 This project presents a Data Analysis of Ola cab booking data using Microsoft Excel and Power BI.
 The goal of this project is to analyze booking trends, customer behavior, revenue insights, and popular routes in order to understand how ride-hailing data can be used for business decision-making.
@@ -54,4 +54,4 @@ Helps demonstrate skills in Excel, Power BI, and storytelling with data.
 
 => Screenshot 
 * Screenshot/Demo shows what dashboard looks like .
-  Example- 
+  Example- https://github.com/work4bdullah/OLA-Dashboard/blob/main/Screenshot%20(25).png
