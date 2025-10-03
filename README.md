@@ -22,8 +22,8 @@ Includes booking details such as:
 
 🛠 Tools & Technologies
 1) Microsoft Excel → Data cleaning, preprocessing, and basic analysis.
-2) 
-3) Power BI → Interactive dashboard creation and visualization
+ 
+2) Power BI → Interactive dashboard creation and visualization
 
 📊 Dashboard Features
 
